@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Chuck Norris approves this
 Use the left arrow to go back!
